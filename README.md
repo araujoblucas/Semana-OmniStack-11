@@ -14,7 +14,7 @@ Este projeto foi criado na semana Omnistack 11 da [Rocketseat](https://rocketsea
 Foi utilizado algumas outras ferramentas que ajudaram no desenvolvimento e configuração do projeto, por exemplo:
 
 - [**Chocolatey**](https://chocolatey.org) que em resumo é um gerenciador de pacotes para Windows.
-- [**Insomnia**]{https://insomnia.rest} que é um poderoso cliente de API REST com gerenciamento de cookies, variáveis de ambiente, geração de código e autenticação.
+- [**Insomnia**](https://insomnia.rest) que é um poderoso cliente de API REST com gerenciamento de cookies, variáveis de ambiente, geração de código e autenticação.
 - [**Express**](https://expressjs.com/) que é um framework para aplicativo da web do Node.js que fornece um conjunto de recursos para aplicativos web e móvel.
 - [**Knex.js**](http://knexjs.org/) que é um query builder para Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, e Amazon Redshift construido pra ser flexivel e portatil.
 
